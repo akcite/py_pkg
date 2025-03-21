@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<launch>
+
+  <node name="keyop" pkg="py_pkg" type="keyop" output="screen" />
+
+</launch>
